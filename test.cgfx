@@ -1,0 +1,62 @@
+float3 gLamp0Pos : Position < 
+    string Object = "PointLight0"; 
+    string UIName =  "Lamp 0 Position"; 
+    string Space = "World"; 
+> = { -0.5f, 2.0f, 1.25f } ; 
+
+
+
+
+
+asm*              explicit           pixelfragment*       template
+
+asm_fragment      extern             pixelshader*         texture
+
+auto              FALSE              private              texture1D
+
+bool              fixed              protected            texture2D
+
+break             float*             public               texture3D
+
+case              for                register             textureCUBE
+
+catch             friend             reinterpret_cast     textureRECT
+
+char              get                return               this
+
+class             goto               row_major            throw
+
+column_major      half               sampler              TRUE
+
+compile           if                 sampler_state        try
+
+const             in                 sampler1D            typedef
+
+const_cast        inline             sampler2D            typeid
+
+continue          inout              sampler3D            typename
+
+decl*             int                samplerCUBE          uniform
+
+default           interface          shared               union
+
+delete            long               short                unsigned
+
+discard           matrix*            signed               using
+
+do                mutable            sizeof               vector*
+
+double            namespace          static               vertexfragment*
+
+dword*            new                static_cast          vertexshader*
+
+dynamic_cast      operator           string*              virtual
+
+else              out                struct               void
+
+emit              packed             switch               volatile
+
+enum              pass*              technique*           while
+
+
+23f 23d 3.0
